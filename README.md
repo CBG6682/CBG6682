@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=CBG6682&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Deep%20Learning%20%C2%B7%20GPU%20Kernel%20Optimization&descSize=16&descAlignY=60" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Undergraduate+%40+UIT+%E2%80%93+VNU-HCM;Deep+Learning+Model+Architectures;Low-level+GPU+Performance+Engineering;Seeking+AI+%2F+ML+Systems+%2F+HPC+Internships" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Undergraduate+%40+UIT+%E2%80%93+VNU-HCM;Deep+Learning+Model+Architectures;Low-level+GPU+Performance+Engineering" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -25,7 +25,10 @@ My work sits between two areas: understanding **model architectures** (CV and NL
 ## 🧰 Tech I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,cuda,linux,git&theme=dark" alt="skills"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ## 📫 Let's connect
